@@ -1,0 +1,32 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="${project.basedir};*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.gradle;.hg;.svn;CVS;__pycache__;_svn;build;dependency-reduced-pom.xml;out;target;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="appctl" type="JSHELL" />
+      <mapping pattern="css" type="PLAIN_TEXT" />
+      <mapping pattern="ScalaDemo4.scala" type="PLAIN_TEXT" />
+      <mapping pattern="dockerFile" type="PLAIN_TEXT" />
+      <mapping pattern="product/list.ftl" type="PLAIN_TEXT" />
+      <mapping pattern="ScalaDataType" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="cvx" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping pattern="data-sync" type="Shell Script" />
+      <mapping pattern="decompile" type="Shell Script" />
+      <mapping pattern="cloud-appctl" type="Shell Script" />
+      <mapping pattern="mac-appctl" type="Shell Script" />
+      <mapping ext="com" type="XML" />
+      <mapping ext="mlx" type="XML" />
+      <removed_mapping ext="factories" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="webp" approved="true" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+    </extensionMap>
+  </component>
+</application>

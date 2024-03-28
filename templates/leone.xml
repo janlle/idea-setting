@@ -1,0 +1,28 @@
+<templateSet group="leone">
+  <template name="auth" value="/**&#10; * &lt;p&gt; &#10; *&#10; * @author leone&#10; * @since $date$&#10; **/" description="author" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="newthread" value="new Thread(() -&gt; {&#10;    $END$&#10;}).start();" description="new Thread" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sleep" value="try {&#10;    Thread.sleep(1000);&#10;} catch (InterruptedException e) {&#10;    e.printStackTrace();&#10;}" description="Thread sleep" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="trycache" value="try {&#10;    $END$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;}finally {&#10;    &#10;}" description="Try cache finally" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="newmethod" value="public static void $END$() {&#10;    $END$&#10;}" description="new method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

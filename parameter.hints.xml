@@ -1,0 +1,18 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.time.format.DateTimeFormatter.DateTimeFormatter(printerParser,locale,decimalStyle,resolverStyle,resolverFields,chrono,zone)" />
+      </blacklist>
+    </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="TypeScript" />
+      <language id="Scala" />
+      <language id="JavaScript" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+      <language id="SQL" />
+    </disabledLanguages>
+  </component>
+</application>

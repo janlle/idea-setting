@@ -1,0 +1,296 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <bytecodeTargetLevel target="1.8" />
+      </component>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="Git.Settings">
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/workspace/idea-java/java-examples" value="PREVIEW" />
+            <entry key="D:/workspace/idea-java/spring-gradle" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="Duplicates" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="JavaDoc" enabled="false" level="WARNING" enabled_by_default="false">
+            <option name="TOP_LEVEL_CLASS_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="INNER_CLASS_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="METHOD_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+              </value>
+            </option>
+            <option name="FIELD_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="IGNORE_DEPRECATED" value="false" />
+            <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+            <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+            <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+            <option name="myAdditionalJavadocTags" value="" />
+          </inspection_tool>
+          <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="ignoreAnonymousInnerClasses" value="false" />
+            <option name="superClassString" value="" />
+          </inspection_tool>
+        </profile>
+        <option name="PROJECT_PROFILE" value="Default" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
+        <version value="1.0" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="Kotlin2JvmCompilerArguments">
+        <option name="jvmTarget" value="1.8" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="$USER_HOME$/software/maven-3.6.1" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="jdkForImporter" value="#JAVA_HOME" />
+            <option name="vmOptionsForImporter" value="-Xmx768m" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="jreName" value="#JAVA_HOME" />
+      </component>
+      <component name="ProjectCodeStyleConfiguration">
+        <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="leone" />
+        <dictionary name="Andy" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>Error handlingJava</id>
+              </State>
+              <State>
+                <id>General</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit issues</id>
+              </State>
+              <State>
+                <id>Inheritance issuesJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Duplicates</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="D:/workspace/idea-java" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="SDK Location" />
+        <property name="project.structure.proportion" value="0.17" />
+        <property name="project.structure.side.proportion" value="0.3264368" />
+        <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="ScalaProjectSettings">
+        <option name="intInjectionMapping">
+          <map>
+            <entry key="xml" value="XML" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="SshConsoleOptionsProvider">
+        <option name="myEncoding" value="UTF-8" />
+        <option name="myConnectionType" value="NONE" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="ThriftCompiler">
+        <compilers />
+      </component>
+      <component name="ValidationConfiguration">
+        <option name="VALIDATORS">
+          <map>
+            <entry key="EJB Validator" value="false" />
+            <entry key="Faces Validator" value="true" />
+            <entry key="FreeMarker" value="true" />
+            <entry key="Hibernate Validator" value="true" />
+            <entry key="JPA Validator" value="true" />
+            <entry key="Jasper Validator" value="true" />
+            <entry key="Spring Model Validator" value="true" />
+            <entry key="Spring Web Flow" value="true" />
+            <entry key="Web Xml Validator" value="true" />
+          </map>
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ArquillianSettingsConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.3264368" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.3264368" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>Bundled Protobuf Distribution</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.3264368" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.3264368" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.3264368" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.3264368" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
